@@ -1,0 +1,7 @@
+[
+  {
+    "fname": "router_watchdog.js",
+    "title": "Router Watchdog",
+    "description": "This script tries to execute HTTP GET requests within a set time, against a set of endpoints.\n\nAfter certain number of failures the script sets the Switch off and after some time turns it back on."
+  }
+]
